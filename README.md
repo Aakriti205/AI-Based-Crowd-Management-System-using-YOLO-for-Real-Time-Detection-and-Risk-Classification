@@ -1,0 +1,2 @@
+# AI-Based-Crowd-Management-System-using-YOLO-for-Real-Time-Detection-and-Risk-Classification
+This project presents an AI-based crowd management system that utilizes computer vision and machine learning techniques to monitor crowd density in real-time. The system uses YOLO (You Only Look Once) for human detection, followed by crowd counting and density estimation. Based on the computed density, machine learning models.
